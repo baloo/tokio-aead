@@ -2,6 +2,8 @@
 name = "tokio-aead"
 version = "0.0.0"
 authors = [ "Arthur Gautier" ]
+license = "MIT/Apache-2.0"
+description = "An AEAD encryption/decryption stream for tokio"
 
 [dependencies]
 futures = "0.1"
